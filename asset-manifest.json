@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/venia-site/static/css/main.dd6c16ad.css",
-    "main.js": "/venia-site/static/js/main.77ff97a7.js",
+    "main.js": "/venia-site/static/js/main.eaeef2c8.js",
     "static/js/787.28cb0dcd.chunk.js": "/venia-site/static/js/787.28cb0dcd.chunk.js",
     "static/media/banner.png": "/venia-site/static/media/banner.3764437ecc51d194eece.png",
     "static/media/leggings.png": "/venia-site/static/media/leggings.6997871b3e31d594fdf3.png",
@@ -29,11 +29,11 @@
     "static/media/chevron-down.svg": "/venia-site/static/media/chevron-down.fadc45040e456e5cea02f3cd047ee412.svg",
     "static/media/square.svg": "/venia-site/static/media/square.20a62a05f69ed3d7d026edb084c0b5c3.svg",
     "main.dd6c16ad.css.map": "/venia-site/static/css/main.dd6c16ad.css.map",
-    "main.77ff97a7.js.map": "/venia-site/static/js/main.77ff97a7.js.map",
+    "main.eaeef2c8.js.map": "/venia-site/static/js/main.eaeef2c8.js.map",
     "787.28cb0dcd.chunk.js.map": "/venia-site/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd6c16ad.css",
-    "static/js/main.77ff97a7.js"
+    "static/js/main.eaeef2c8.js"
   ]
 }
