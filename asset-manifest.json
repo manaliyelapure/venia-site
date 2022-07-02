@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/venia-site/static/css/main.647590bf.css",
-    "main.js": "/venia-site/static/js/main.12bc185c.js",
+    "main.css": "/venia-site/static/css/main.2c36c7a0.css",
+    "main.js": "/venia-site/static/js/main.f600ccbf.js",
     "static/js/787.28cb0dcd.chunk.js": "/venia-site/static/js/787.28cb0dcd.chunk.js",
     "static/media/banner.png": "/venia-site/static/media/banner.3764437ecc51d194eece.png",
-    "static/media/leggings.png": "/venia-site/static/media/leggings.6997871b3e31d594fdf3.png",
-    "static/media/sportsb.png": "/venia-site/static/media/sportsb.dee4c16736b7c0fde7dc.png",
-    "static/media/slick.svg": "/venia-site/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/venia-site/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/venia-site/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slack.svg": "/venia-site/static/media/slack.c960e95535cd9b3149ccf0f0830ec002.svg",
-    "static/media/slick.woff": "/venia-site/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/venia-site/index.html",
     "static/media/share-2.svg": "/venia-site/static/media/share-2.c9452d8d0a01f15f7b30c66f52b97baa.svg",
     "static/media/trash-2.svg": "/venia-site/static/media/trash-2.42240970dae2f75775690e5b6010b1d9.svg",
@@ -21,6 +15,7 @@
     "static/media/layers.svg": "/venia-site/static/media/layers.c7a19f7a66511208890b90729b6a868f.svg",
     "static/media/search.svg": "/venia-site/static/media/search.2a57860d6510d9d8509b76702dbc35f7.svg",
     "static/media/user.svg": "/venia-site/static/media/user.91483d78eeba2c3d646d79ed77b449f4.svg",
+    "static/media/lock.svg": "/venia-site/static/media/lock.64439d453537a96d8d81d9817f2dfef8.svg",
     "static/media/minus-circle.svg": "/venia-site/static/media/minus-circle.e934335b664aeca8f3d3968f708b5a06.svg",
     "static/media/twitter.svg": "/venia-site/static/media/twitter.3d9f31115be6b897b5d45c0aad4c1c1f.svg",
     "static/media/heart.svg": "/venia-site/static/media/heart.3b35352339d37da7c50b5bcdbc557cd0.svg",
@@ -28,13 +23,12 @@
     "static/media/edit-2.svg": "/venia-site/static/media/edit-2.d788d68fd7e2875db7c43ca534d47048.svg",
     "static/media/facebook.svg": "/venia-site/static/media/facebook.b5b54c5572636785078aa70b8bdffe26.svg",
     "static/media/chevron-down.svg": "/venia-site/static/media/chevron-down.fadc45040e456e5cea02f3cd047ee412.svg",
-    "static/media/square.svg": "/venia-site/static/media/square.20a62a05f69ed3d7d026edb084c0b5c3.svg",
-    "main.647590bf.css.map": "/venia-site/static/css/main.647590bf.css.map",
-    "main.12bc185c.js.map": "/venia-site/static/js/main.12bc185c.js.map",
+    "main.2c36c7a0.css.map": "/venia-site/static/css/main.2c36c7a0.css.map",
+    "main.f600ccbf.js.map": "/venia-site/static/js/main.f600ccbf.js.map",
     "787.28cb0dcd.chunk.js.map": "/venia-site/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.647590bf.css",
-    "static/js/main.12bc185c.js"
+    "static/css/main.2c36c7a0.css",
+    "static/js/main.f600ccbf.js"
   ]
 }
